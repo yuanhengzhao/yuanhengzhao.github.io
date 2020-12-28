@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dingdongStore/static/css/main.0d6fd788.chunk.css",
+    "main.js": "/dingdongStore/static/js/main.6f68f77b.chunk.js",
+    "main.js.map": "/dingdongStore/static/js/main.6f68f77b.chunk.js.map",
+    "runtime-main.js": "/dingdongStore/static/js/runtime-main.58325b59.js",
+    "runtime-main.js.map": "/dingdongStore/static/js/runtime-main.58325b59.js.map",
+    "static/css/2.48c4a6ab.chunk.css": "/dingdongStore/static/css/2.48c4a6ab.chunk.css",
+    "static/js/2.2f173c8b.chunk.js": "/dingdongStore/static/js/2.2f173c8b.chunk.js",
+    "static/js/2.2f173c8b.chunk.js.map": "/dingdongStore/static/js/2.2f173c8b.chunk.js.map",
+    "index.html": "/dingdongStore/index.html",
+    "static/css/2.48c4a6ab.chunk.css.map": "/dingdongStore/static/css/2.48c4a6ab.chunk.css.map",
+    "static/css/main.0d6fd788.chunk.css.map": "/dingdongStore/static/css/main.0d6fd788.chunk.css.map",
+    "static/js/2.2f173c8b.chunk.js.LICENSE.txt": "/dingdongStore/static/js/2.2f173c8b.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/dingdongStore/static/media/AB.aea93c40.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58325b59.js",
+    "static/css/2.48c4a6ab.chunk.css",
+    "static/js/2.2f173c8b.chunk.js",
+    "static/css/main.0d6fd788.chunk.css",
+    "static/js/main.6f68f77b.chunk.js"
+  ]
+}
